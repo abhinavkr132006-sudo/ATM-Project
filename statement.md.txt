@@ -1,0 +1,29 @@
+# Problem Statement
+
+Design and implement a Python-based ATM simulation that allows a user to authenticate using a PIN and perform basic banking operations such as checking balance, withdrawing money, depositing money, and viewing a transaction history.
+
+# Scope of the Project
+
+This project will simulate a single-account ATM system with:
+- PIN-based authentication (3 attempt limit)
+- Menu-driven operations: check balance, withdraw, deposit, view transactions, exit
+- In-memory transaction recording
+- Input validation and basic error handling
+
+# Target Users
+
+- Students learning programming
+- Course evaluators
+
+# High-level Features
+
+- PIN authentication
+- Check Balance
+- Withdraw Money
+- Deposit Money
+- Transaction History
+
+# Author
+Name: <Your Name>
+Roll No: <Your Roll No>
+Date: <Submission Date>
